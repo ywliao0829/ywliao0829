@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ywliao0829
-- 👀 I’m interested in climbing & travelling.
+- 👀 I’m a foody，sometimes indulging in video games and talk shows. Taking a stroll，reading，climbing & travelling always unwinds and refleshes my mind.
 - 🌱 I’m currently learning springboot
 - 💞️ I’m looking to collaborate on !!!
 - 📫 How to reach me :???
