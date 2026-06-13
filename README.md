@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ywliao0829, a junior majoring in Software Engineering at the School of Software Engineering, Xi'an Jiaotong University.
+- 👋 Hi, I’m @ywliao0829, a XX majoring in XX at the XX.
 - 👀 I’m a foody，sometimes indulging in video games and talk shows. Taking a stroll，reading，climbing & travelling always unwinds and refleshes my mind.
 - 🌱 I’m currently learning Reinforcement Learning and SLAM.
 - 💞️ I’m looking to collaborate on World Model && Spatial Reasoning VLM/MLLM && Embodied Intelligence !!!
